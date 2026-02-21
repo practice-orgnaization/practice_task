@@ -100,6 +100,7 @@ public class Main {
         service.addEmployee(new Employee(3, "Sato", "IT", 400000));
         service.addEmployee(new Employee(4, "Kato", "IT", 450000));
         service.addEmployee(new Employee(5, "Yamada", "HR", 280000));
+        service.addEmployee(new Employee(5, "Watanabe", "HR", 290000));
 
         System.out.println("=== All Employees ===");
         service.printAll();

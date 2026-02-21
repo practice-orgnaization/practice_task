@@ -24,6 +24,7 @@ INSERT INTO employees (name, department, salary) VALUES
 ('Sato', 'IT', 400000),
 ('Kato', 'IT', 450000),
 ('Yamada', 'HR', 280000);
+('Watanabe', 'HR', 290000);
 
 -- ============================================
 -- 3. 全件取得

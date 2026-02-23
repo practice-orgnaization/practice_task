@@ -6,7 +6,7 @@ DROP TABLE IF EXISTS employees;
 
 CREATE TABLE employees (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(100) NOT NULL,
+    name VARCHAR(130) NOT NULL,
     employee_no VARCHAR(10) NOT NULL,
     department VARCHAR(50) NOT NULL,
     salary DECIMAL(12,2) NOT NULL,

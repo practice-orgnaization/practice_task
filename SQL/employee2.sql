@@ -20,7 +20,6 @@ CREATE TABLE employees (
 -- ============================================
 
 INSERT INTO employees (name, department, salary) VALUES
-('Tanaka', 'Sales', 300000),
 ('Suzuki', 'Sales', 320000),
 ('Sato', 'IT', 400000),
 ('Kato', 'IT', 450000),
